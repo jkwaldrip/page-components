@@ -9,6 +9,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
 using System.Threading;
+using PageComponents.browsers;
 
 namespace PageComponents
 {
@@ -145,7 +146,7 @@ namespace PageComponents
                     driver = new FirefoxDriver(path);
                     break;
                 case WebBrowsers.Chrome:
-                    driver = new ChromeDriver(path);
+                    driver = HeadlessChrome.StartChrome(path);
                     break;
                 default:
                     throw new Exception($"Could not launch browser of name {browserName} please use : ie, firefox, or chrome");
