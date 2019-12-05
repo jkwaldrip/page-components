@@ -5472,7 +5472,7 @@
       ]
     },
     "System.Threading.ThreadPool/4.3.0": {
-      "sha512": "SrCOmTvvOOCmJT4BBxdZcwhz6XEMsjBGZvGSVorOxdCznaUNeVotEjDfXGIZ8gcGo00qgPbTV6puHDgcFYl6Iw==",
+      "sha512": "k/+g4b7vjdd4aix83sTgC9VG6oXYKAktSfNIJUNGxPEj7ryEOfzHHhfnmsZvjxawwcD9HyWXKCXmPjX8U4zeSw==",
       "type": "package",
       "path": "system.threading.threadpool/4.3.0",
       "files": [
@@ -5526,7 +5526,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\brian.kitchener\\.nuget\\packages\\": {},
+    "C:\\Users\\jain.waldrip\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -5535,14 +5535,14 @@
       "projectUniqueName": "C:\\code\\page-components\\PageComponents\\PageComponents\\PageComponents.csproj",
       "projectName": "PageComponents",
       "projectPath": "C:\\code\\page-components\\PageComponents\\PageComponents\\PageComponents.csproj",
-      "packagesPath": "C:\\Users\\brian.kitchener\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\jain.waldrip\\.nuget\\packages\\",
       "outputPath": "C:\\code\\page-components\\PageComponents\\PageComponents\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\brian.kitchener\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jain.waldrip\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5550,6 +5550,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
         "https://pack.olobuild.net/nuget/buildartifacts": {}
       },
       "frameworks": {
